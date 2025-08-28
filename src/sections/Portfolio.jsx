@@ -7,16 +7,16 @@ export default function Portfolio() {
       link: "#",
     },
     {
-      title: "SaaS Application",
+      title: "SaaS landing-page",
       description: "build and sell software design and solutions",
       image: "/images/work-2.png",
-      link: "#",
+      link: "https://saas-company-landing-page-tau.vercel.app/index.html",
     },
     {
       title: "Bitbridge Community",
       description: "All in one access point for community projects, podcast episode's and donation checkout to support the movements",
       image: "/images/work-3.png",
-      link: "#",
+      link: "https://community-website-sooty.vercel.app/",
     },
   ];
 
@@ -57,7 +57,7 @@ export default function Portfolio() {
 
         {/* Button */}
         <a
-          href="#"
+          href="https://github.com/macho254"
           className="inline-block mt-12 px-10 py-3 border border-pink-500 bg-gray-400 text-white rounded-md hover:bg-pink-500 transition"
         >
           See More

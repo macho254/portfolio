@@ -10,7 +10,7 @@ export default function Footer() {
         {/* Social Media Icons */}
         <div className="flex space-x-6 mt-4 md:mt-0">
           <a
-            href="https://facebook.com"
+            href="https://facebook.com/maore_antony"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-[#ff004f] hover:translate-y-1 transition-colors"
@@ -18,7 +18,7 @@ export default function Footer() {
             <FaFacebook size={20} />
           </a>
           <a
-            href="https://x.com/Maore_Antony?t=JTvi4QNXrPGGVVRaITd2Jg&s=09"
+            href="https://x.com/Maore_Antony?"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-[#ff004f] hover:translate-y-1 transition-colors"
@@ -42,7 +42,7 @@ export default function Footer() {
             <FaGithub size={20} />
           </a>
           <a
-            href="https://instagram.com"
+            href="https://instagram.com/maore_antony"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-[#ff004f] hover:translate-y-1 transition-colors"

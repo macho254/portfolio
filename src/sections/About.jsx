@@ -19,7 +19,7 @@ export default function About() {
           <div>
             <h1 className="text-4xl font-bold mb-4">About Me</h1>
             <p className="text-gray-700 mb-6">
-              Tech and finance enthustiast, software developer, Bitcoin and crypto advocate,
+              Tech and finance enthusiast, software developer, Bitcoin and crypto advocate,
               passionate about psychology and spirituality,
               all this fueling my creativity to leave an impact and inspire others to do the same through coding and sharing my insight with others.
 
