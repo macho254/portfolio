@@ -1,22 +1,22 @@
 export default function Portfolio() {
   const projects = [
     {
-      title: "Saving Goal tracker",
-      description: "track your savings in Bitcoin or stablecoins to have an edge against inflation",
+      title: "Bitbridge Community",
+      description: "All in one access point for community projects, podcast episode's and donation checkout to support the movements",
       image: "/images/work-1.png",
-      link: "#",
+      link: "https://community-website-sooty.vercel.app/",
+    },
+    {
+      title: "Goalstack",
+      description: " track your savings in Bitcoin or stablecoins to have an edge against inflation",
+      image: "/images/work-2.png",
+      link: "https://goalstack.vercel.app/",
     },
     {
       title: "SaaS landing-page",
       description: "build and sell software design and solutions",
-      image: "/images/work-2.png",
-      link: "https://saas-company-landing-page-tau.vercel.app/index.html",
-    },
-    {
-      title: "Bitbridge Community",
-      description: "All in one access point for community projects, podcast episode's and donation checkout to support the movements",
       image: "/images/work-3.png",
-      link: "https://community-website-sooty.vercel.app/",
+      link: "https://saas-company-landing-page-tau.vercel.app/index.html",
     },
   ];
 
